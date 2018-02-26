@@ -10,7 +10,7 @@ int main()
     float valorProcesado = 0;
     string total = "";
 
-    cout<<"Ingresa el numero maximo de valores (Max 10):";
+    cout<<"Ingresa el numero maximo de valores (Max '10'):";
     cin>>valorMax;
 
     if(valorMax > 10)
